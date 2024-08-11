@@ -7,7 +7,11 @@
     },
     {
       "username": "Xyro",
-      "password": "Ciciroxyz",
+      "password": "Ciciroxyz"
+    },
+    {
+      "username": "test",
+      "password": "test"
     }
   ]
 }
