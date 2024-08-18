@@ -18,6 +18,10 @@
     },
     { "username": "rimofc",
       "password": "admin#1234"
+    },
+    {
+      "username": "sigma",
+      "password": "mewing"
     }
   ]
 }
