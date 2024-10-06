@@ -4,10 +4,14 @@
     {
       "username": "sanzmd12",
       "password": "12345"
-    },
+      const readline = require('readline');
+
+const db = {
+  users: [
     {
-      "username": "Xyro",
-      "password": "Ciciroxyz"
+      "username": "sanz",
+      "password": "sanz"
+      "expires": "2024-10-10T12:00:00.000Z
     },
     {
       "username": "test",
