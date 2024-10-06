@@ -2,16 +2,9 @@
   "allowedIps": ["172.18.0.112","188.114.96.2","172.18.0.111"],
   "users": [
     {
-      "username": "sanzmd12",
-      "password": "12345"
-      const readline = require('readline');
-
-const db = {
-  users: [
-    {
       "username": "sanz",
-      "password": "sanz"
-      "expires": "2024-10-10T12:00:00.000Z
+      "password": "sanz",
+      "expires": "2024-10-10T12:00:00.000Z"
     },
     {
       "username": "test",
